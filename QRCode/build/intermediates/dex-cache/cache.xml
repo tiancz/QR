@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\QRCode\app\libs\core.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="092efa2d3736f82a1f18b282dca7295708158cd4">
+        <dex dex="D:\AndroidStudioProjects\QRCode\app\build\intermediates\pre-dexed\debug\core-ea6cd43dbbbba416c8edd96af25f2cd5d69ec30f.jar" />
+    </item>
+
+</items>
